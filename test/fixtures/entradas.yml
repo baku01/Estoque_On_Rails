@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2024-02-10
+  documento: MyString
+  numero: MyString
+  quantidade: 9.99
+  preco_unitario: 9.99
+  preco_total: 9.99
+  observacoes: MyText
+  estoque: one
+
+two:
+  data: 2024-02-10
+  documento: MyString
+  numero: MyString
+  quantidade: 9.99
+  preco_unitario: 9.99
+  preco_total: 9.99
+  observacoes: MyText
+  estoque: two

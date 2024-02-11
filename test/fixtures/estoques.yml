@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo: 1
+  descricao: MyString
+  codigo: MyString
+  unidade: MyString
+  perecivel: false
+  estoque_minimo: 9.99
+  estoque_maximo: 9.99
+  estoque_reposicao: 9.99
+  estoque_saldo: 9.99
+  custo_medio: 9.99
+  custo_total: 9.99
+  conta_contabil: MyString
+  localizacao: MyString
+  status: 1
+  grupo: one
+
+two:
+  tipo: 1
+  descricao: MyString
+  codigo: MyString
+  unidade: MyString
+  perecivel: false
+  estoque_minimo: 9.99
+  estoque_maximo: 9.99
+  estoque_reposicao: 9.99
+  estoque_saldo: 9.99
+  custo_medio: 9.99
+  custo_total: 9.99
+  conta_contabil: MyString
+  localizacao: MyString
+  status: 1
+  grupo: two
